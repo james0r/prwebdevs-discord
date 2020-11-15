@@ -75,4 +75,4 @@ When getting responses be careful about who you trust. Some people just want to 
 ## Do not flood the channel - use a pastebin or share a CodePen
 Sometimes you need to show others more than one line. Perhaps parts of your configuration files or a log file. Never just copy and paste larger amounts of text right into the channel. Always use a pastebin. Pastebins are public services (web sites) where you can paste your text and everybody can access them as a URL. Just paste your contents there and send the URL into the channel. That should allow everybody who's interested to take a look. Just don't paste it without any comment. Rather say: "Emails seem to get lost since I installed program foobar. Please take a look: http://pastebin.com"
 
-An even better solution is to create a CodePen on https://www.codepen.io or a jsfiddle at https://www.jsfiddle.com, save it and share the share link with the channel.
+An even better solution is to create a CodePen on https://www.codepen.io or a jsfiddle at https://www.jsfiddle.net, save it and share the share link with the channel.
