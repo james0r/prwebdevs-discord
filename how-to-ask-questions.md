@@ -38,7 +38,7 @@ Do not expect a single person to stay online until your problem is fixed. Anyone
 And a related matter:
 
 
-## Do not /msg people without asking
+## Do not direct message people without asking
 You can either talk to others in a channel publicly or /msg them privately. However the latter is considered rude. Don't occupy a single person for your purpose. Others may as well be interested in a solution to your problem, too.
 
 
