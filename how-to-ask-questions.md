@@ -1,6 +1,4 @@
-How to get useful help on IRC
-IRC (Internet Relay Chat) is a real-time chat where you can talk to other people from around the planet. Although many channels deal with small talk about the weather, girl/boy/SO friends and politics, there are IRC networks and channels that are dedicated to provide support for software or an operating system. irc.debian.org, for example, exists to support Free Software projects. If you need urgent help or just don't want to use a mailing list, you are welcome on IRC. IRC has been there for ages and has evolved over time. It may appear a hot tub of completely crazy people at first. This article is meant to help you understand how IRC works socially and how to get the most out of it.
-
+## How to get useful help on PRWebDev Discord Server
 
 Don't ask to ask
 It's bad manners if someone enters a channel and asks "May I ask a question?" or "Can anyone help me?". Although that may be polite in normal human interaction, it does not work that way on IRC. Just ask your question right away.
