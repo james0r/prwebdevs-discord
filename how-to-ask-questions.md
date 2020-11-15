@@ -1,4 +1,4 @@
-## How to get useful help on PRWebDev Discord Server
+# How to get useful help on PRWebDev Discord Server
 
 Don't ask to ask
 It's bad manners if someone enters a channel and asks "May I ask a question?" or "Can anyone help me?". Although that may be polite in normal human interaction, it does not work that way on IRC. Just ask your question right away.
