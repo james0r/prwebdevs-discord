@@ -5,7 +5,7 @@ It's bad manners if someone enters a channel and asks "May I ask a question?" or
 
 
 ## Be precise
-There is nothing worse than "My printer doesn't work." or "My mail server doesn't work.". How are others supposed to help you when you don't give them any information? Make sure you include at least this information:
+There is nothing worse than "My website doesn't work." or "My menu doesn't work.". How are others supposed to help you when you don't give them any information? Make sure you include at least this information:
 
 - What did you try to accomplish? (I want to make the menu stick to the top when I scroll.)
 - What has happened (wrongly) instead? (It doesn't stick, it just keeps scrolling with the page.)
@@ -28,7 +28,7 @@ Keep in mind that most people who are logged on Discord in a given channel are N
 On a related note, check your logs. The answer may have been passed to you when you went for a nature break, or a smoke.
 
 
-## Read the /topic
+## Read the channel topic
 Your IRC client will likely show you the "topic" of a channel when you enter it. You should find some useful information about how this channel is supposed to work. Often the topic even lists URLs for FAQs and documentation. Asking something that is clearly answered in the topic is very stupid. If there are FAQ URLs listed in the topic first look there to see if your question is already answered.
 
 
